@@ -12,3 +12,6 @@ Vanilla text may contain *italics* and **bold words**.
 - Software Carpentry
 - Data Carpentry
 - Library Carpentry
+
+Here is a picture of the bane of my existence right now:
+![image](files/Users/Maddie/Downloads/IMG_2774.HEIC)
