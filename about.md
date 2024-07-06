@@ -17,5 +17,8 @@ The following drinks are things I like to order:
 - {{ team_member.name}}, headache?: {{ team_member.role }}
 {% endfor %}
 
+## Drinks that rarely give me a headache
+{{ site.team_members | where:"role", "rarely" | first }}
+
 **Enjoy**
 
