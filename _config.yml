@@ -4,7 +4,7 @@ twitter: "https://twitter.com/thecarpentries"
 
 team_members:
   -
-    name: "Iced latte"
+    name: "Iced Coffee"
     role: "yes ow"
     start_date: "2024-06-28"
   -
@@ -12,7 +12,11 @@ team_members:
     role: notreally
     start_date: "2024-07-01"
   -
-    name: "Iced Tea"
+    name: "Tom Cat"
     role: rarely
     start_date: "2023-06-24"
+  -
+    name: "Alie Dauncey"
+    role: "developer"
+    start_date: "2020-09-15"
     
