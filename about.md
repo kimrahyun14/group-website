@@ -10,4 +10,3 @@ It's quite hard to focus but I'm doing alright    I am writing this because othe
 
 **Enjoy**
 
-{% include footer.html %}
