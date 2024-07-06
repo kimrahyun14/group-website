@@ -20,3 +20,6 @@ team_members:
     role: "developer"
     start_date: "2020-09-15"
     
+collections:
+  blogposts:
+    output: true
