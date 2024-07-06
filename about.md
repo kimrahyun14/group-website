@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include navigation.html %}
+
 ## About the webpage
 I wrote about caffeine overdoses because I am having one
 
