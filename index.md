@@ -13,5 +13,5 @@ This goes to the [about page](about)
 Think of a drink!  {{ page.drink-type}}
 
 
-hm [Email me!](mailto:{{ site.email }})
+{% include footer.html %}
 
