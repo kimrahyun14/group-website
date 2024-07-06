@@ -1,15 +1,12 @@
 # group-website
-Repo for learning how to make websites with Jekyll and GitHub pages
+This is my work for making a website on Github pages
 
 ## Learning Markdown
 
 Vanilla text may contain *italics* and **bold words**.
+*coffee* gives me **headaches** and **nausea** because I am getting  a *caffeine overdose*
 
-This paragraph is separated from the previous one by a blank line.
-Line breaks
-are caused by two trailing spaces at the end of a line.
-
-[Carpentries Webpage](https://carpentries.org/)
+[webpage on caffeine overdose](https://www.healthline.com/health/caffeine-overdose)
 
 ### Carpentries Lesson Programs:
 - Software Carpentry
