@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 ---
 
 ## About the webpage
