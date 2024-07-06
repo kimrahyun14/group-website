@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Index page (Home)
 drink-type: "https://www.loveandlemons.com/matcha-green-tea/"
 ---  
