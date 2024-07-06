@@ -15,3 +15,5 @@ Vanilla text may contain *italics* and **bold words**.
 
 Here is a picture of the bane of my existence right now:
 ![image](files/Users/Maddie/Downloads/IMG_2774.HEIC)
+
+I am aware the picture is local so it won't show but at least figuring out how to do it is good
