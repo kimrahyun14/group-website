@@ -1,3 +1,7 @@
 # Caffeine Overdose page
+
 ## Description
-this demonstrates that I'm following the lesson
+{{ site.description }}
+This goes to the [about page](about)  
+[Email me!](mailto:{{site.email}})
+
