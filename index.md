@@ -1,4 +1,5 @@
 ---
+layout: default
 drink-type: "https://www.loveandlemons.com/matcha-green-tea/"
 ---  
 
