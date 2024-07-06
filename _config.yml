@@ -1,3 +1,18 @@
 description: "made this after drinking too much coffee"
 email: "madelinekim14@g.ucla.edu"
 twitter: "https://twitter.com/thecarpentries"
+
+team_members:
+  -
+    name: "Madeline Kim"
+    role: "IMLS"
+    start_date: "2024-06-28"
+  -
+    name: "Zikuang Eric Huang"
+    role: alsoIMLS
+    start_date: "2024-07-01"
+  -
+    name: "Lawrence Lee"
+    role: ourboss(ish)
+    start_date: "2023-06-24"
+    
