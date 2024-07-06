@@ -17,9 +17,6 @@ This goes to the [about page](about)
 Think of a drink!  [what I thought of]({{ page.drink-type}})
 
 ## Blog Posts
-{% for post in site.blogposts %}
-- {{ post.date | date_to_string}}: [{{ post.title }}]({{ post.url | relative_url }})
-{% endfor %}
 
 {% for post in site.blogposts %}
 - {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }}) by {{ post.author }}
